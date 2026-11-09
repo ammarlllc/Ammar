@@ -1,0 +1,6 @@
+{
+  "name": "AMMAR H4CKER - Offline Video Vault & Snake Game",
+  "description": "Stealth offline video vault disguised as an interactive Snake game. Eat 5 red data orbs to unlock the portal, upload and play offline videos with Admin authentication, and export portable OBB data packages to share across devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
